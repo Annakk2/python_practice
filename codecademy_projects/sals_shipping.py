@@ -1,3 +1,6 @@
+# This program calculates shipping costs based on weight using different shipping methods.
+
+
 weight = 41.5
 
 #Ground shipping
