@@ -9,3 +9,4 @@ My beginner-to-pro Python scripts while learning to become a software engineer.
 - [x] magic_8_ball.py — A fun control flow project from Codecademy
 - [x] sal_shipping.py — Shipping cost calculator using conditionals
 - [x] receipts_loveseats.py — Furniture catalog & receipt generator
+- [x] gradebook.py - A script that manages and modifies a student gradebook using Python lists, including adding, updating, and combining semester data.
