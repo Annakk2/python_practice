@@ -8,7 +8,7 @@ This calculator performs basic arithmetic operations — **addition, subtraction
 
 ---
 
-## ✨ Features
+## Features
 
 - Handles user input for two numbers and an operator
 - Performs `+`, `-`, `*`, `/` operations
