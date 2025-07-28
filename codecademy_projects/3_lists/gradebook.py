@@ -35,6 +35,16 @@ gradebook[2].append("pass")
 
 print()
 
+
+
+# The following line is adding more subject and grade pairs to the gradebook.
+gradebook.append(["biology", 87])
+gradebook.append(["mathematics", 78])
+print(gradebook)
+gradebook.append(["biology", 87])
+
+print()
+
 full_gradebook = last_semester_gradebook + gradebook
 
 print(full_gradebook)
