@@ -1,5 +1,6 @@
 print("Welcome to Ana's Contact Manager!")
 
+action = input("What would you like to do? (A)dd, (V)iew, (Q)uit: ").lower()
 contacts = []
 if action == "a":
     name = input("Enter contact name: ")
@@ -9,9 +10,8 @@ if action == "a":
 elif action == "v":
     print("Your Contacts:")
     for contact in contacts:
-        print(f"[contact["name"]}] - {contac["phone"]}")
+        print(f"[{contact['name']}] - {contact['phone']}")
 elif action == "q":
-    priny("Goodbye!")
-    break
+    print("Goodbye!")
 else:
     print("Invalid option. Please try A, V, or Q.")
