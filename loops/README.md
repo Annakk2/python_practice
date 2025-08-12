@@ -44,12 +44,4 @@ This folder contains Python practice files that focus on mastering loops and lis
 - Infinite loop (commented for safety!)
 - Controlled infinite loop with `break`
 
----
-
-## How to Run
-
-In your terminal:
-
-```bash
-python3 filename.py
 
